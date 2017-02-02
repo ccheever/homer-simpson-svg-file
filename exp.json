@@ -1,0 +1,21 @@
+{
+  "name": "homer-simpson-svg",
+  "description": "Homer Simpson in SVG",
+  "slug": "homer-simpson-svg",
+  "sdkVersion": "13.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "https://s3.amazonaws.com/rapgenius/Homer_Simpson_Vector_by_bark2008.png",
+  "notification": {
+    "icon": "https://s3.amazonaws.com/exp-us-standard/placeholder-push-icon-blue-circle.png",
+    "color": "#000000"
+  },
+  "loading": {
+    "icon": "https://s3.amazonaws.com/rapgenius/Homer_Simpson_Vector_by_bark2008.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4", "svg"]
+  }
+}
